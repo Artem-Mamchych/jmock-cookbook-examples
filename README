@@ -1,0 +1,4 @@
+This project contains examples from http://jmock.org/cookbook.html
+svn url: http://jmockit.googlecode.com/svn/trunk/samples/jmock
+
+Usage: mvn test
